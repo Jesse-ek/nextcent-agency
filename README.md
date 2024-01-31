@@ -1,6 +1,6 @@
 ** It is completely responsive on mobile but not on tablets.
 
-** Repository Name and url("https://github.com/PrimeXV/Split-Landing-page").
+** Repository Name and url("https://github.com/Jesse-ek/nextcent-agency.git").
 
 ** Live site url("https://primexv.github.io/Split-Landing-page/").
 
