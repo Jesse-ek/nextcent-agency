@@ -1,0 +1,168 @@
+
+@media screen and (max-width: 600px) {
+    #hero-sec{display: flex;
+    flex-direction: column;
+    padding: 10.823px 1px;
+    gap: 150.391px;
+}
+
+.header{
+    padding: 20px 20px;
+    text-align: center;
+}
+
+  .header a{
+    float: none;
+    display: block;
+    text-align: left;
+    line-height: 2px;
+    text-align: center;
+  }
+  
+  
+  .header-right {
+    float: none;
+  }
+
+.clients-logos{
+    height: 50.215px;
+    justify-content: space-between;
+    letter-spacing: 5px;
+  }
+
+.individual{
+    display: flex;
+    flex-direction: column;
+}
+
+#membership{
+    padding: 30px;
+}
+
+#Association{
+    padding: 30px;
+}
+
+#clubs{
+    padding: 20px;
+}
+
+.unlock{
+    display: flex;
+    flex-direction: column;
+    padding: 100.823px 50.234px;
+    gap: 150px;
+}
+
+.unlock-text{
+    margin: 0px 0px;
+}
+
+#unlocks-img{
+    padding-left: 1px;
+    padding-top: 20px;
+
+}
+
+.achievement{
+    display: flex;
+    flex-direction: column;
+    padding: 10.823px 50.234px;
+    gap: 20px;
+}
+
+.lock{
+    display: flex;
+    flex-direction: column;
+    padding: 10.823px 50.234px;
+    gap: 20px;
+}
+
+.lock img{
+    max-width: 100%;
+}
+
+.customer{
+    display: flex;
+    flex-direction: column;
+    padding: 100.823px 50.234px;
+    gap: 60px;
+}
+
+#customer-img{
+    width: 326px;
+    height: 326px;
+    border-radius: 8px;
+    box-shadow: 0px 8px 16px 0px rgba(171, 190, 209, 0.40);
+}
+
+.customer-logos{
+    letter-spacing: 15px;
+    
+}
+
+.community-update{
+    display: flex;
+    flex-direction: column;
+    padding: 10.823px 50.234px;
+    gap: 2px;
+}
+
+.frames{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-left: 100px;
+}
+
+.frame1 img{
+    max-width: 150%;
+}
+
+#frame1-text{
+    width: 100%;
+    position: absolute;
+    bottom: -30%;
+    left: 50%;
+    z-index: 1;
+}
+
+.frame2 img{
+    max-width: 150%;
+}
+
+#frame2-text{
+    width: 100%;
+    position: absolute;
+    bottom: -40%;
+    left: 50%;
+    z-index: 1;
+}
+
+.frame3 img{
+    max-width: 150%;
+}
+
+#frame3-text{
+    width: 100%;
+    position: absolute;
+    bottom: -40%;
+    left: 50%;
+    z-index: 1;
+}
+
+.container{
+    padding: 64px 16px;
+    gap: 20px;
+}
+
+.links{
+    display: flex;
+    flex-direction: column;
+    gap: 2px;
+}
+
+}
+
+
+
