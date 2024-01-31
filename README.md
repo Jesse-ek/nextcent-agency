@@ -2,7 +2,7 @@
 
 ** Repository Name and url("https://github.com/Jesse-ek/nextcent-agency.git").
 
-** Live site url("https://primexv.github.io/Split-Landing-page/").
+** Live site url(" https://jesse-ek.github.io/nextcent-agency/").
 
 ** Kindly follow on Github, Github profile("https://github.com/PrimeXV").
 
